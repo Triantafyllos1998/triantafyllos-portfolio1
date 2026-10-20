@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://triantafyllos1998.github.io/triantafyllos-portfolio1/sitemap.xml
